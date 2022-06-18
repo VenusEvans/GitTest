@@ -118,7 +118,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7128713924333617896
 Transform:
   m_ObjectHideFlags: 0
@@ -220,3 +220,4 @@ MonoBehaviour:
   interactable: 1
   sprite: {fileID: 7128713924333617903}
   label: {fileID: 7128713922719474966}
+  count: 1
